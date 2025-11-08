@@ -134,6 +134,7 @@ The lab is divided into **4 main steps**:
 - Evaluate each model on test set
 
 **Key Output**: Accuracy table with outlier counts and best radius value
+![RNN](RNN.png)
 
 **What is RNN?**
 - Classifies based on **all neighbors within a fixed radius**
