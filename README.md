@@ -193,6 +193,7 @@ The lab is divided into **4 main steps**:
 ### Overall Winner
 - **Generally**: KNN tends to be more consistent
 - **Best Case**: Both can achieve similar high accuracy with optimal parameters
+![comparison](comparison.png)
 
 ---
 
