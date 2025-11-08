@@ -118,6 +118,7 @@ The lab is divided into **4 main steps**:
 - Record accuracy and classification metrics
 
 **Key Output**: Accuracy table and best k value
+![knn](knn.png)
 
 **What is KNN?**
 - Classifies based on the **k nearest neighbors**
