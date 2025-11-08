@@ -105,6 +105,7 @@ The lab is divided into **4 main steps**:
 - Use stratified splitting to maintain class balance
 
 **Key Output**: Dataset statistics and split confirmation
+![dataset](dataSet.png)
 
 ---
 
