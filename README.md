@@ -107,6 +107,8 @@ The lab is divided into **4 main steps**:
 **Key Output**: Dataset statistics and split confirmation
 ![dataset](dataSet.png)
 
+![split](split.png)
+
 ---
 
 ### **Step 2: Implement K-Nearest Neighbors (KNN)**
