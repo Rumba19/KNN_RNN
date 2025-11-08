@@ -18,21 +18,10 @@
 
 ## 🎯 Overview
 
-This lab explores the performance of **K-Nearest Neighbors (KNN)** and **Radius Neighbors (RNN)** classifiers using the Wine Dataset from scikit-learn. Through hands-on implementation and analysis, you'll understand how different parameter values impact classification accuracy and learn when to use each algorithm.
+This lab explores the performance of **K-Nearest Neighbors (KNN)** and **Radius Neighbors (RNN)** classifiers using the Wine Dataset from scikit-learn. 
 
 ---
 
-## 🎓 Objectives
-
-By completing this lab, you will:
-1. Load and explore the Wine Dataset
-2. Implement KNN classifier with various k values
-3. Implement RNN classifier with various radius values
-4. Compare model performance through visualizations
-5. Understand the trade-offs between KNN and RNN
-6. Learn optimal parameter selection strategies
-
----
 
 ##  Dataset
 
@@ -221,16 +210,16 @@ scaled_value = (value - mean) / standard_deviation
 ### KNN vs RNN Decision Guide
 
 **Use KNN When**:
-- ✅ Data density varies across feature space
-- ✅ You want consistent performance
-- ✅ Simpler parameter tuning is needed
-- ✅ You know approximate optimal neighbor count
+- Data density varies across feature space
+- You want consistent performance
+- Simpler parameter tuning is needed
+- You know approximate optimal neighbor count
 
 **Use RNN When**:
-- ✅ Data is uniformly distributed
-- ✅ Distance thresholds have physical meaning
-- ✅ Outlier detection is important
-- ✅ You want to exclude very distant neighbors
+- Data is uniformly distributed
+- Distance thresholds have physical meaning
+- Outlier detection is important
+- You want to exclude very distant neighbors
 
 ### Parameter Selection
 
