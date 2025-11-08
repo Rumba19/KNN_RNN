@@ -152,6 +152,10 @@ The lab is divided into **4 main steps**:
 
 **Key Output**: 3 visualization plots and comprehensive analysis
 
+
+![outlier](knn_RNN.png)
+![comparison](comparison.png)
+
 ---
 
 ##  How to Run
@@ -193,13 +197,12 @@ The lab is divided into **4 main steps**:
 - **Trend**: Increases with radius up to a point, then plateaus
 - **Challenge**: Small radius values may fail due to outliers
 
-![outlier](knn_RNN.png)
 
 ### Overall Winner
 - **Generally**: KNN tends to be more consistent
 - **Best Case**: Both can achieve similar high accuracy with optimal parameters
-![comparison](comparison.png)
 
+![stats](stats.png)
 ---
 
 ## 🧠 Key Concepts
